@@ -1,0 +1,6 @@
+Triangle Mesh - Exercise
+
+1. Draw object defined in "object3DTriangleMesh.obj" file (Use "load-mesh.h" to load the .obj file)
+2. Scale the object 20 units (in all axis)
+3. Deformate the object (in one axe or in a combination of X,Y,Z axis)
+

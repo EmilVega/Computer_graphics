@@ -1,0 +1,9 @@
+Activities:
+Lab 3A: Define Camera, 3D Object Transformations (gluLookAt, gluPerspective, glFrustum)
+1. Apply 5 transformations to the 3D object
+2. Apply different parameter settings at gluLookAt and gluPerspective functions and explain how the functions works with them.
+
+Lab 3B: Create 3D Object based on poligonal representation
+1. Create on 3D Scene 3 real objects based on 2D primitives (apply scanning and rotation techniques) 
+
+*Extra activity: Create a scene where you can explore one object moving the camera and using the keyboard you can apply any specific transformation on the object (Display a menu option in the display mode console to know about the available transformations).

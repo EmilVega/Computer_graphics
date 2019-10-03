@@ -1,0 +1,8 @@
+Activities:
+Lab 4A: Shadow Projection, glPushMatrix(), glPopMatrix(), glMultMatrixf(matrix)
+1. Draw a 3D object and project the shadow on the ground plane 
+2. Rotate the light source and project the shadow of the object on the ground plane while the light source is rotating.
+
+Lab 4B: Instance Transformation, glPushMatrix(), glPopMatrix()
+1. Create a function to draw one 3D object
+2. Instance 3 3D objects (display horizontally centered) and apply the same transformations to the Instance 1 and Instance 3.

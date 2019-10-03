@@ -1,0 +1,12 @@
+Activities:
+Lab 2A: Translations and Scale Transformations, Aspect Ratio, GL_MODELVIEW, GL_PROJECTION, glutTimerFunc, animation
+1. Draw a centered Circle
+2. Maintain the same coordinate system when the screen is resized//Avoid object distortion when you resize the screen
+3. Move (Translate) the circle through x-axe 
+4. Animate the ball (circle) using scale and translation coordinates
+5.* Extra Activity: Move the ball around window edges
+
+Lab 2B: Apply different transformations on specific objects, glPushMatrix(), glPopMatrix(), glMultMatrixf(matrix)
+1. Draw 3 squares
+2. Apply one (same transformation) transformation to 2 squares
+3. Apply shear to 3rd square

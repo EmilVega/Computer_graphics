@@ -1,0 +1,11 @@
+Notas:
+/*Transformaciones que aplican a toda la geometría*/
+glRotatef(...);
+glTranslatef(...);
+glPushMatrix( ); /*Guardo el estado de la matriz*/
+/*Transformaciones que aplican a la geometría específica*/
+glTranslatef(...);
+glScalef(...);
+dibujo_geometría_primitivasgrupo1( ); /* Render de la geometría que pasará por 4 transformaciones */
+glPopMatrix( ); /* Recupero el estado de la matriz anterior */
+dibujo_geometría_primitivasgrupo1( ); /* Render de la geometría que pasará UNCAMENTE por las 2 primeras transformaciones */

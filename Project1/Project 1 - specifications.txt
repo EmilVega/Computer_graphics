@@ -1,0 +1,19 @@
+Project 1 Specifications
+The project is focused on draw 6 unique and diferent pieces of chess and apply them several transformations (Topics: primitives, matrices, transformations, push and pop matrixes, instances, camera transformations, callbacks )
+
+Revision Date: October 19th, 2018
+
+a) Draw the axis on the scene
+b) Build each object using just primitives and rotation and sweep (if you require you could combine both techniques in any case )
+c) Build an animation for each piece, you can use keyboard, menu, or mouse to start and perform the animation. 
+	=> Use a different transformation to each piece. 
+	=> Don´t use transformation functions available in OpenGL
+
+Evaluation
+============
+a) (1 point) Draw axis (the axis should stay static while you apply the transformation to each object)
+b) (3 points) Draw 6 chess pieces on the scene
+c) (3 points) Piece transformation (one different transformation for each piece) 
+d) (2 points) See chessboard (scene) from the top, and rotate it to right or left (rotate each time just one side, use keyboard, menu or mouse to start and perform the transformation)
+e) (1 point) Presentation and code organization (organize your presentation for less than 5 minutes, I will review the projects while the rest of students is working on the lab activities. When it is possible, the code should be organized in functions, and it should be commented and easy to read)
+
